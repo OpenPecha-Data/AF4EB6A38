@@ -1,0 +1,19 @@
+id: AF4EB6A38
+title: Supplement to the Lineage Prayer for the Lamdré Instructions Composed by Tsarchen
+type: translation
+pechas:
+- I482102E0
+- I0A4C07BE
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:14:48.645177
+  last_modified_at: 2023-01-04 12:14:48.645184
+  collections:
+  - Jamyang Khyentse Chökyi Lodrö Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I482102E0/D764: EF39
+  I0A4C07BE/3B1D: EF39
